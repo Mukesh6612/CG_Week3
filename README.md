@@ -31,22 +31,6 @@ The third week was dedicated to exploring core data structures and algorithmic s
 - Introduction to HashMaps
 - Basic hashing concepts and functions
 
-### 03 - Sorting Algorithms
-- Bubble sort
-- Selection sort
-- Insertion sort
-- Basic understanding of how each sort works and its complexity
-
-### 04 & 05 - Linear & Binary Search
-- Linear search implementation
-- Binary search implementation
-- Prerequisites for binary search (sorted data)
-- Time complexity comparison
-
-### 06 - Algorithm's Runtime Analysis & Big-O
-- Understanding time and space complexity
-- Big-O notation
-- Analyzing efficiency of algorithms
 
 ## Prerequisites
 - Week 1 and Week 2 content familiarity (Java basics and OOP)
